@@ -1,0 +1,30 @@
+Rank,Name,Platform,Year,Month,Genre,Publisher,Country,City,State,Region,NA_Sales,Global_Sales,NA_Profit,Global_Profit
+2,Super Mario Bros.,NES,2014,Feb,Platform,Nintendo,United States,Edmonds,Washington,North,,200,50,100
+5,Pokemon Red/Pokemon Blue,GB,2014,May,Role-Playing,Nintendo,USA,Nashville,Tennessee,South,,205,52.5,102.5
+9,New Super Mario Bros. Wii,Wii,2014,Sep,Platform,Nintendo,USA,Fairfield,Ohio,East,,210,55,105
+11,Nintendogs,DS,2014,Nov,Role-Playing,Nintendo,USA,Los Angeles,California,,120,215,57.5,107.5
+13,Pokemon Gold/Pokemon Silver,GB,2014,Jan,Role-Playing,Nintendo,USA,New Bedford,Massachusetts,East,120,220,60,110
+16,Kinect Adventures!,X360,2014,Apr,Platform,Microsoft Game Studios,USA,New York City,New York,East,125,225,62.5,112.5
+17,Grand Theft Auto V,PS3,2014,May,Action,Take-Two Interactive,USA,San Francisco,California,North,130,230,65,115
+18,Grand Theft Auto: San Andreas,PS2,2014,Jun,Action,Take-Two Interactive,USA,Los Angeles,California,North,135,235,67.5,117.5
+20,Brain Age: Train Your Brain in Minutes a Day,DS,2014,Aug,Platform,Nintendo,USA,San Francisco,California,North,140,240,70,120
+21,Pokemon Diamond/Pokemon Pearl,DS,2014,Sep,Role-Playing,Nintendo,USA,Oceanside,California,North,145,245,72.5,122.5
+23,Super Mario Bros. 3,NES,2014,Nov,Platform,Nintendo,USA,Los Angeles,California,,150,250,75,125
+24,Grand Theft Auto V,X360,2014,Dec,Action,Take-Two Interactive,United States,Inglewood,California,North,155,255,77.5,127.5
+24,Grand Theft Auto V,X360,2014,Dec,Action,Take-Two Interactive,United States,Inglewood,California,North,155,255,77.5,127.5
+24,Grand Theft Auto V,X360,2014,Dec,Action,Take-Two Interactive,United States,Inglewood,California,,155,255,77.5,127.5
+24,Grand Theft Auto V,X360,2014,Dec,Action,Take-Two Interactive,United States,Inglewood,California,North,155,255,77.5,127.5
+25,Grand Theft Auto: Vice City,PS2,2014,Jan,Action,Take-Two Interactive,United States,San Diego,California,North,170,260,80,130
+27,Pokemon Black/Pokemon White,DS,2014,Mar,Role-Playing,Nintendo,united states,Lawrence,Massachusetts,East,185,265,82.5,132.5
+31,Pokémon Yellow: Special Pikachu Edition,GB,2014,Jul,Role-Playing,Nintendo,united states,Philadelphia,Pennsylvania,East,190,270,85,135
+,,,,,,,,,,,,,,
+,,,,,,,,,,Sum,,,,
+,,,,,,,,,,Average,,,,
+,,,,,,,,,,Max,,,,
+,,,,,,,,,,Min,,,,
+,,,,,,,,,,Count,,,,
+,,,,,,,,,,COUNTIF,,,,
+,,,,,,,,,,COUNTIFS,,,,
+,,,,,,,,,,SUMIF,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
